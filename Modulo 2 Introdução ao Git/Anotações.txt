@@ -1,0 +1,15 @@
+# Etapa 1 - Comandos basicos para um bom desempenho no terminal
+
+# Etapa 2 - Realizando a instalação do GIT
+
+# Etapa 3 - Tópicos fundamenntais para entender o funcionamento do GIT
+
+# Etapa 4 - Objetos internos do GIT 
+
+# Etapa 4 - Chave SSH e Token
+
+# Etapa 6 - Primeiros comandos com GIT
+
+# Etapa 7 - Ciclo de vida dos arquivos no GIT
+
+# Etapa 8 - Introdução ao github
